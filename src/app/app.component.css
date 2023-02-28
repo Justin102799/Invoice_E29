@@ -1,0 +1,28 @@
+h1{
+    color: navy;
+}
+h6{
+    color:  #e01b84;
+}
+.A4{
+    width: 595px;
+    min-height: 842px;
+    padding: 3rem;
+}
+p{
+    margin-bottom: 0;
+}
+.flex_column{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.text-right{
+    text-align: right ;
+}
+.total{
+    color: #e01b84;
+}
+th{
+    color: navy;
+}
